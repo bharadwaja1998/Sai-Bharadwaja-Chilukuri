@@ -62,5 +62,5 @@ Happy coding! 🚀
 
 My GitHub Stats 🚀 🚀
 
-[![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiBharadwajaChilukuri&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwaja1998&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
